@@ -79,7 +79,10 @@ A digital marketplace concept connecting marble suppliers, retailers and custome
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-ishaansaraswat--lang-181717?style=for-the-badge&logo=github)](https://github.com/ishaansaraswat-lang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishaan%20Saraswat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-saraswat-tech/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ishaansaraswat--lang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishaansaraswat-lang)
+
 
 ---
 
