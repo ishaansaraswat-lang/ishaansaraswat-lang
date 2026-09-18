@@ -25,7 +25,7 @@
 - Building with React.js, TypeScript, Tailwind CSS and Supabase
 - Interested in scalable application architecture and product development
 - Enjoy turning real-world problems into practical software solutions
-- Currently focusing on improving full-stack development and system design
+- Currently focusing on full-stack development and system design
 
 ---
 
@@ -67,6 +67,93 @@
 
 ---
 
+## 🚀 Ongoing Projects
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<h3>CampusHub <sup>ONGOING</sup></h3>
+
+<b>College Event & Placement Management Platform</b>
+
+<p>A full-stack university platform for managing events, attendance, placements and student activity.</p>
+
+<ul>
+<li>Event registration & participant management</li>
+<li>QR-based event check-in</li>
+<li>Attendance analytics & reporting</li>
+<li>Placement workflows & eligibility filtering</li>
+<li>Student 360 profiles</li>
+<li>Super Admin dashboards</li>
+</ul>
+
+<b>Tech Stack:</b> React.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL
+
+<br><br>
+
+<a href="https://github.com/ishaansaraswat-lang/CampusHub"><b>View Repository →</b></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Completed Projects
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<h3>Unified IPO Application & Tracking Platform <sup>COMPLETED</sup></h3>
+
+<b>IPO Discovery & Application Tracking Platform</b>
+
+<p>A centralized platform designed to simplify IPO discovery, application tracking and related workflows.</p>
+
+<ul>
+<li>Unified IPO information</li>
+<li>IPO application tracking</li>
+<li>Structured database architecture</li>
+<li>Supabase-powered backend</li>
+</ul>
+
+<b>Tech Stack:</b> React.js • TypeScript • Supabase • PostgreSQL
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Upcoming Projects
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<h3>Stonesetu <sup>UPCOMING</sup></h3>
+
+<b>Digital Stone & Marble Marketplace</b>
+
+<p>A marketplace platform concept connecting stone suppliers, retailers and customers through verified listings, transparent product information and online discovery.</p>
+
+<ul>
+<li>Verified supplier listings</li>
+<li>Product discovery & comparison</li>
+<li>Transparent pricing</li>
+<li>Customer-focused marketplace experience</li>
+</ul>
+
+<b>Focus:</b> Marketplace Architecture • Web Development • Database Design • Product Development
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Current Focus
 
 - Full-Stack Development
@@ -87,64 +174,35 @@
 
 ---
 
-## Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/ishaan-saraswat-tech/">LinkedIn</a> • 
-  <a href="https://github.com/ishaansaraswat-lang">GitHub</a>
-</p>
-
----
-
-<p align="center"><i>Building useful products, one project at a time.</i></p>
-## Featured Projects
-
-### CampusHub
-**College Event & Placement Management Platform**
-
-A full-stack university management platform covering:
-
-- Event registration and participant management
-- Event administration and attendance tracking
-- QR-based event check-in
-- Attendance analytics and reporting
-- Placement management and eligibility filtering
-- Student 360 profiles and activity insights
-- Super Admin dashboards and analytics
-
-**Built with:** React.js &bull; TypeScript &bull; Tailwind CSS &bull; Supabase &bull; PostgreSQL
-
-[View CampusHub](https://github.com/ishaansaraswat-lang/CampusHub)
-
----
-
-### Unified IPO Application & Tracking Platform
-
-A centralized platform designed to simplify IPO discovery, application tracking and related investment workflows.
-
-**Built with:** React.js &bull; TypeScript &bull; Supabase &bull; PostgreSQL
-
----
-
-### MarblePlex
-
-A digital marketplace concept connecting marble suppliers, retailers and customers through verified listings, transparent product information and online discovery.
-
-**Focus:** Marketplace Architecture &bull; Web Development &bull; Database Design
-
----
-
-
 ## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ishaansaraswat-lang&theme=transparent&hide_border=true" />
 </p>
 
+---
 
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaansaraswat-lang&hide_border=true&bg_color=00000000&area=true" width="100% />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaansaraswat-lang&hide_border=true&bg_color=00000000&area=true" width="100%" />
 </p>
 
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishaan-saraswat-tech/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ishaan_Saraswat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ishaansaraswat-lang">
+    <img src="https://img.shields.io/badge/GitHub-ishaansaraswat--lang-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building useful products, one project at a time.</i>
+</p>
